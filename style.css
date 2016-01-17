@@ -1,19 +1,59 @@
+/*div{
+	border: 2px solid black;
+}*/
+
 img#profilepic {
-    width:1300px;
-    height:500px;
+    width:1100px;
+    height:423px;
     padding-top: 20px;
 }
-
-img.centerImage{
+.centered{
 	display: block;
     margin: 0 auto;
 }
+
+#textwidth{
+	width:1100px;
+}
+
+.spacer{
+	width:1100px;
+    height:60px;
+}
+
+.spacer2{
+	width:1100px;
+    height:30px;
+}
+
+ul.nostyle{
+	list-style: none;
+}
+
+.textwidthhalf{
+	width:546px;
+}
+
+.alignleft{
+	float: left;
+}
+
+.alignright{
+	float: right;
+	text-align: right;
+}
+
+.floatclear{
+	clear: both;
+}
+
 p {
 	font-family: Verdana;
 }
 
 h1 {
 	text-align: center;
+	font-size: 70px;
 	font-family: Helvetica;
 	padding-top: 20px;
 }
@@ -43,7 +83,7 @@ ul {
 h1.ama {
 		color:#e6b800;
 		font-weight: bold;
-		font-size: 90px;
+		font-size: 70px;
 }
 
 h1.ama a {
