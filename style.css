@@ -1,6 +1,6 @@
 img#profilepic {
-    width:400px;
-    height:400px;
+    width:1300px;
+    height:500px;
     padding-top: 20px;
 }
 
@@ -38,4 +38,14 @@ h4 {
 }
 ul {
 	font-family: Verdana;
+}
+
+h1.ama {
+		color:#e6b800;
+		font-weight: bold;
+		font-size: 90px;
+}
+
+h1.ama a {
+	color:#e6b800;
 }
