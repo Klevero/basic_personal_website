@@ -1,4 +1,4 @@
-/*div{
+/*{
 	border: 2px solid black;
 }*/
 
@@ -12,7 +12,7 @@ img#profilepic {
     margin: 0 auto;
 }
 
-#textwidth{
+.textwidth{
 	width:1100px;
 }
 
@@ -80,12 +80,27 @@ ul {
 	font-family: Verdana;
 }
 
-h1.ama {
+.ama {
 		color:#e6b800;
 		font-weight: bold;
 		font-size: 70px;
+		text-align: center;
+		padding-bottom: 30px;
 }
 
 h1.ama a {
 	color:#e6b800;
+}
+
+/*PORTFOLIO PAGE*/
+/*PORTFOLIO PAGE*/
+/*PORTFOLIO PAGE*/
+
+#project_container img{
+	border-radius: 50%;
+	padding:10px;
+}
+
+.portfolio_text {
+	font-size: 150px;
 }
