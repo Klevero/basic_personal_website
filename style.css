@@ -89,3 +89,12 @@ h1.ama {
 h1.ama a {
 	color:#e6b800;
 }
+
+.footer {
+	width: 1100px;
+	height: 80px;
+	background-color: green;
+	border: 1px solid #ccc;
+}
+
+
